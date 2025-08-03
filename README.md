@@ -142,7 +142,8 @@ Pull requests are welcome! Open an issue to discuss features or ideas.
 
 ## 👨‍🍳 Author
 
-Made with ❤️ by **Vibhaw Kureel**
+Made with ❤️ by **Vishwas Kureel**
 
 ---
+
 
